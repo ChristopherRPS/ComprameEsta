@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "67067304234",
+    "project_id": "tienda-virtual-4a14c",
+    "storage_bucket": "tienda-virtual-4a14c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67067304234:android:0d57ed0e020dbfa103a653",
+        "android_client_info": {
+          "package_name": "com.sleepy.tiendavirtualapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS6ngE8NegSNqhx_ppJaZuJ-RTYUj94gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

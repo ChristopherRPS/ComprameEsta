@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Tienda Virtual</string>
+
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+
+    <!--Navigation drawer vendedor-->
+    <string name="op_inicio_v">Inicio</string>
+    <string name="op_mi_tienda_v">Mi Tienda</string>
+    <string name="op_resenia_v">Reseñas</string>
+    <string name="op_cerrar_sesion_v">Cerrar Sesión</string>
+
+    <!--Navigation drawer cliente-->
+    <string name="op_inicio_c">Inicio</string>
+    <string name="op_mi_perfil_c">Mi Perfil</string>
+    <string name="op_cerrar_sesion_c">Cerrar Sesión</string>
+
+    <!--Bottom navigation bar vendedor-->
+    <string name="op_mis_productos_v">Mis Productos</string>
+    <string name="op_mis_ordenes_v">Ordenes</string>
+
+    <!--Bottom navigation bar cliente-->
+    <string name="op_tienda_c">Tienda</string>
+    <string name="op_mis_ordenes_c">Mis Ordenes</string>
+
+    <string name="txt_bienvenida">Bienvenido(a)</string>
+
+    <!--Registro Vendedor-->
+    <string name="txtRegistroV">Registro de Vendedor</string>
+    <string name="etNombresV">Nombres Completos</string>
+    <string name="etEmail">Email</string>
+    <string name="etPassword">Contraseña</string>
+    <string name="etCPassword">Confirmar Contraseña</string>
+    <string name="btnRegistrarV">Registrarme</string>
+
+    <!--Registro de Clientes-->
+    <string name="txtRegistroC">Registro del Cliente</string>
+    <string name="etNombresC">Nombres Completos</string>
+    <string name="btnRegistrarC">Registrarme</string>
+
+    <!--Login Vendedor-->
+    <string name="txtLoginV">Login de vendedor</string>
+    <string name="btnLoginV">Ingresar</string>
+    <string name="txtNoCuenta">¿No tienes una cuenta?</string>
+    <string name="tvRegistrarV">Registrarme</string>
+
+    <!--Login Cliente-->
+    <string name="txtLoginC">Login del cliente</string>
+    <string name="btnLoginC">Ingresar</string>
+    <string name="tvRegistrarC">Registrar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
