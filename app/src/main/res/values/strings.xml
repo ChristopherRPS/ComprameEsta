@@ -3,13 +3,14 @@
 
     <string name="open_drawer">Open Drawer</string>
     <string name="close_drawer">Close Drawer</string>
-    
+
     <string name="tipoVendedor">Vendedor</string>
     <string name="tipoCliente">Cliente</string>
 
     <!--Navigation drawer vendedor-->
     <string name="op_inicio_v">Inicio</string>
     <string name="op_mi_tienda_v">Mi Tienda</string>
+    <string name="op_categorias_v">Categorias</string>
     <string name="op_resenia_v">Reseñas</string>
     <string name="op_cerrar_sesion_v">Cerrar Sesión</string>
 
@@ -51,6 +52,21 @@
     <string name="txtLoginC">Login del cliente</string>
     <string name="btnLoginC">Ingresar</string>
     <string name="tvRegistrarC">Registrarme</string>
+
+    <!--Productos-->
+    <string name="txtAgregarProductos">Agregar productos</string>
+    <string name="etNombresP">Nombre del producto</string>
+    <string name="etDescripcionP">Descripción</string>
+    <string name="Categoria">Categoria</string>
+    <string name="etPrecioP">Precio</string>
+    <string name="txtDescuento">Descuento</string>
+    <string name="etPrecioConDescuentoP">Precio con descuento aplic.</string>
+    <string name="etNotaDescuentoP">Ejm : 10% Desc.</string>
+    <string name="btnAgregarProducto">Agregar producto</string>
+
+    <!--Agregar Categorias-->
+    <string name="etCategoria">Ingrese Categoria</string>
+    <string name="btnAgregarCat">Agregar Categoria</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
