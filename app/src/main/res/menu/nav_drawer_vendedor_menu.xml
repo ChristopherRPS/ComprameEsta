@@ -31,6 +31,12 @@
             android:title="@string/op_resenia_v"
             android:icon="@drawable/ico_resenias"/>
 
+        <!--About-->
+        <item
+            android:id="@+id/op_about_v"
+            android:title="@string/op_about_v"
+            android:icon="@drawable/baseline_info_24"/>
+
     </group>
 
     <item

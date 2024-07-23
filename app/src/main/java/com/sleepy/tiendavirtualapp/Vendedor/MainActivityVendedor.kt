@@ -16,6 +16,7 @@ import com.sleepy.tiendavirtualapp.SeleccionarTipoActivity
 import com.sleepy.tiendavirtualapp.Vendedor.Bottom_Nav_Fragments_Vendedor.FragmentMisProductosV
 import com.sleepy.tiendavirtualapp.Vendedor.Bottom_Nav_Fragments_Vendedor.FragmentOrdenesV
 import com.sleepy.tiendavirtualapp.Vendedor.Nav_Fragments_Vendedor.FragmentCategoriasV
+import com.sleepy.tiendavirtualapp.Vendedor.Nav_Fragments_Vendedor.FragmentAboutV
 import com.sleepy.tiendavirtualapp.Vendedor.Nav_Fragments_Vendedor.FragmentInicioV
 import com.sleepy.tiendavirtualapp.Vendedor.Nav_Fragments_Vendedor.FragmentMiTiendaV
 import com.sleepy.tiendavirtualapp.Vendedor.Nav_Fragments_Vendedor.FragmentReseniasV
@@ -92,6 +93,9 @@ class MainActivityVendedor : AppCompatActivity() , NavigationView.OnNavigationIt
             }
             R.id.op_resenia_v->{
                 replaceFragment(FragmentReseniasV())
+            }
+            R.id.op_about_v->{
+                replaceFragment(FragmentAboutV())
             }
             R.id.op_cerrar_sesion_v->{
                 cerrarSesion()
