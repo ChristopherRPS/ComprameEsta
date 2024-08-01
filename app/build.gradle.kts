@@ -48,10 +48,14 @@ dependencies {
     implementation(libs.firebaseAuth) /*Autenticacion firebase*/
     implementation(libs.firebaseDatabase) /*Base de datos firebase*/
     implementation(libs.imagePicker)/*Recortar una imagen*/
-    implementation(libs.glide) /*Leer imagenes*/
+    implementation(libs.glide)
+    implementation(libs.androidx.navigation.fragment.ktx)
+    implementation(libs.androidx.navigation.ui.ktx) /*Leer imagenes*/
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
     implementation("com.google.android.gms:play-services-maps:18.1.0")
+    implementation ("com.android.volley:volley:1.2.1")
+
 
 }
